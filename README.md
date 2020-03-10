@@ -1,2 +1,6 @@
 # C Language Programs
-Programs I have written in C. After using Ubuntu and running Bash scripts months, I realized I had fascination with everythin Linux. Therefore, I decided to indulge this curiosity. The next logical step in understanding GNU/Linux was to learn C programming. I have officially taken the blue pill, falling deeper into the GNU environment. Who knows, maybe the Matrix was created in GNU/Linux.
+##Programs I have written in C. 
+After using Ubuntu and running Bash scripts for several months, I realized I had an insatiable fascination with everythin Linux. 
+Therefore, I decided to indulge this curiosity. The next logical step in understanding GNU/Linux was to learn C programming. 
+I am now entrinched in my learning and  have officially recognized the blue pill as viable.
+I have fallen ever deeper into the GNU rabbit hole.
