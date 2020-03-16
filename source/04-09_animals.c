@@ -2,17 +2,17 @@
 
 int main()
 {
-	char names[4][5] = {
+	char names[5][9] = {
 		"Ant",
 		"Bee",
 		"Cat",
-		"Duck"
+		"Duck",
+		"Elephant"
 	};
 	int x;
 
-	for(x=0;x<4;x++)
+	for(x=0;x<5;x++)
 		printf("%s\n",names[x]);
 
 	return(0);
 }
-

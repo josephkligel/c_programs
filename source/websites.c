@@ -8,6 +8,7 @@ int main() {
 	puts("2) Udemy");
 	puts("3) Quora");
 	puts("4) Reddit");
+	puts("5) Google");
 	printf("Type number here: ");
 	scanf("%d", &x);
 	switch (x) {
@@ -18,6 +19,8 @@ int main() {
 		case 3: system("google-chrome 'https://quora.com'");
 				break;
 		case 4: system("google-chrome 'https://reddit.com'");
+				break;
+		case 5: system("google-chrome 'https://google.com'");
 				break;
 		default: puts("Invalid Input");
 	}
